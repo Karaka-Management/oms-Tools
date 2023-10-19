@@ -7,7 +7,7 @@
         "name": "Tools",
         "uri": null,
         "target": "self",
-        "icon": "fa fa-wrench",
+        "icon": "build",
         "order": 15,
         "from": "Tools",
         "permission": { "permission": 2, "category": null, "element": null },
